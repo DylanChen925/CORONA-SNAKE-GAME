@@ -1,6 +1,5 @@
 # CORONA-SNAKE-GAME
-It is been ten weeks. We learnd a lot of computer program skills from Dr.文楨黃.
-we decided to make a classic game which is snake game.
+經過十週的練習。從黃文楨教授所授的軟體開發技巧，我們決定以貪食蛇為期末報告主題。
 
 ## 組別
 第九組
@@ -8,7 +7,6 @@ we decided to make a classic game which is snake game.
 ## 小組成員
 + 楊登行 0413078
 + 周士郁 0313090
-+ 李承翰 0552025
 + 李承翰 0552025
 + 邱譯誠 0524061
 + 陳文德 0612039
