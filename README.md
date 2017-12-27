@@ -22,9 +22,9 @@
 至今已有上千種版本，光ios版本就超過300種。由此可知，這是適合初學者開發的遊戲軟體!
 
 # 專案畫面簡介
-![SNAKE1](screenshot1.png)
+![SNAKE1](https://i.imgur.com/woJOSjS.png)
 ### 簡單的操作介面和操作方式，左下為計分板，中間為控制方向鍵，右下方重新開始
-![SNAKE2](screenshot2.png)
+![SNAKE2](https://i.imgur.com/3mUhCVn.png)
 ### 每吃十個豆子便會加速一次
-![SNAKE3](screenshot3.png)
+![SNAKE3](https://i.imgur.com/CWvhXzS.png)
 ### 試著突破自己能創下的最高紀錄
